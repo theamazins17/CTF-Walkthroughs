@@ -6,8 +6,11 @@ Most of the challenges I have created have a focus on OSINT, or open-source inte
 If you have questions or concerns about any of the challenges I have created, feel free to reach out. I am also willing to help those find the way to the flag and learn of unintended ways to solve my challenges.<br>
 
 ## CTFs
+### 2023
 [SpringForwardCTF-2023](springforwardctf-2023)<br>
 [JerseyCTF-2023](jerseyctf-2023)<br>
 [SpookyCTF-2023](spookyctf-2023)<br>
+
+### 2024
 [JerseyCTF-2024](jerseyctf-2024)<br>
 [SpringForwardCTF-2024](springforwardctf-2024) **coming soon**<br>
