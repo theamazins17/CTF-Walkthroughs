@@ -1,4 +1,4 @@
-# scouts-honor - hard 
+# scouts-honor
 
 ## Description
 * I lost one of my favorite journals from my childhood and I was hoping to use the time machines to go get a fresh copy. Sadly, I cannot remember when it came out. All I remember are some great
