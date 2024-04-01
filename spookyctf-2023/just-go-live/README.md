@@ -1,4 +1,4 @@
-# just-go-live - easy
+# just-go-live
 
 ## Description
 * Can you seem to find our flag on our service where we stream? Be careful, things aren't as they seem!
