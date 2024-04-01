@@ -6,9 +6,6 @@ jokes, heroic stories, and a red car that was 4 feet and a couple inches long. I
 Could you find out the ISSN number and the first name of who sent the joke?
 * Remember to use underscores instead of spaces. Example: jctf{ISSN_1234-5678_FirstName}
 
-## Hint
-* No hints. 
-
 ## Solution Steps
 * If you picked up on the title of this challenge you can tell there are some descriptions of Scouts BSA magazine called Scout Life. From there it is somewhat straight forward from there.
 * From the search bar you can search up __wayback__ and click the one that shows all past editions of the magazine from 1911-2012. https://scoutlife.org/wayback/
