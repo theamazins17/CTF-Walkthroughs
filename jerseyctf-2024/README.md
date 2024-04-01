@@ -1,5 +1,4 @@
 # JerseyCTF Challenges
-# JerseyCTF Challenges
 | Challenge Name | Category | Description | Difficulty | Hint
 |:-- | :-- | :--- | :---| :---
 | [data-divergence-discovery](data-divergence-discovery) | Miscellaneous |Find the difference between the two given files. | Easy | Is there a software to figure out the difference?
