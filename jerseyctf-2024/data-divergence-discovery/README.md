@@ -1,4 +1,4 @@
-# data-divergence-disovery
+# data-divergence-discovery
 
 ## Description
 I received these 2 files in an email and they mysterious sender asked me to find the differences between the files.
