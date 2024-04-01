@@ -5,6 +5,8 @@ Most of the challenges I have created have a focus on OSINT, or open-source inte
 
 If you have questions or concerns about any of the challenges I have created, feel free to reach out. I am also willing to help those find the way to the flag and learn of unintended ways to solve my challenges.<br>
 
+*Note: The category section on the table for each CTF was the category each challenge was under for their respective CTF.*
+
 ## CTFs
 ### 2023
 [SpringForwardCTF-2023](springforwardctf-2023)<br>
