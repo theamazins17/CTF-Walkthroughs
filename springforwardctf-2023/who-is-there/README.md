@@ -1,4 +1,4 @@
-# who-is-there - easy
+# who-is-there
 
 ## Description
 * Bots have been using a program to go back into time and disrupt our current timeline. They have joined all the known web forums, including this Discord!
