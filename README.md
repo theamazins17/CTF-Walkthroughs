@@ -1,5 +1,9 @@
 # CTF-Walkthroughs
-This repo is dedicated to walkthroughs of CTF challenges I created.
+This repo is dedicated to walkthroughs of CTF challenges I created.<br>
+
+Most of the challenges I have created have a focus on OSINT, or open-source intelligence. I have also created some cryptography challenges, forensics challenges, steganography challenges, and a mixture of two categories challenges. I plan in the future to create reverse engineering and web challenges, as these are categories I have no experience with.<br>
+
+If you have questions or concerns about any of the challenges I have created, feel free to reach out. I am also willing to help those find the way to the flag and learn of unintended ways to solve my challenges.<br>
 
 ## CTFs
 
