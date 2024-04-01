@@ -14,4 +14,4 @@ Can you figure out who this culprit is and expose them? They have been reported 
 4.	Click on the link leading to the user’s [Twitter account](https://twitter.com/D4rk_F4t3).
 5.	The flag is listed in the bio.
 
-* Flag: `nicc{I’11_B3_B4CK}`
+Flag: `nicc{I’11_B3_B4CK}`
