@@ -1,4 +1,4 @@
-# great-scott - easy
+# great-scott
 
 ## Description
 * Decode the coded message in the jpg file!
