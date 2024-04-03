@@ -8,10 +8,10 @@ Can you figure out who this culprit is and expose them? They have been reported 
 * Navigate to the arrivals channel of the Discord
 
 ## Solution Steps
-1.	Navigate to the arrivals channel.
-2.	Find the user with the name Dark Fate
-3.	Click on the user’s profile.
-4.	Click on the link leading to the user’s [Twitter account](https://twitter.com/D4rk_F4t3).
-5.	The flag is listed in the bio.
+* Navigate to the arrivals channel.
+* Find the user with the name Dark Fate
+* Click on the user’s profile.
+* Click on the link leading to the user’s [Twitter account](https://twitter.com/D4rk_F4t3).
+* The flag is listed in the bio.
 
 Flag: `nicc{I’11_B3_B4CK}`
