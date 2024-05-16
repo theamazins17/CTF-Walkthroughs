@@ -15,4 +15,4 @@ If you have questions or concerns about any of the challenges I have created, fe
 
 ### 2024
 [JerseyCTF-2024](jerseyctf-2024)<br>
-[SpringForwardCTF-2024](springforwardctf-2024) **coming soon**<br>
+[SpringForwardCTF-2024](springforwardctf-2024)<br>
